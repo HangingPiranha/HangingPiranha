@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @NehilSHere
-- 👀 I’m interested in AI, Ethical hacking and ..... 
-- 🌱 I’m currently learning python intermidiate
-- 📫 How to reach me erfan.h.666@gmail.com
+
